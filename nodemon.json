@@ -1,0 +1,4 @@
+{
+    "watch": ["main.py", "templates/"],
+    "ext": "py, html"
+  }
